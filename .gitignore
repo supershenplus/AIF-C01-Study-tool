@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 data/progress.json
 .env
+.env.*
+*.env
+*.local.json
 *.egg-info/
 dist/
 build/
+HANDOFF.md
